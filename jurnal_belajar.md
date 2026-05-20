@@ -1,4 +1,4 @@
-# baris ini dirbah di cabang-konflik
+Baris ini adalah hasil resolusi konflik.
 
   ## Minggu 1 - Pengenalan Git
   Belajar instalasi Git dan perintah dasar: init, add, commit.
