@@ -1,4 +1,4 @@
-# Baris ini dirbah di MAIN
+Baris ini adalah hasil resolusi konflik.
 
   ## Minggu 1 - Pengenalan Git
   Belajar instalasi Git dan perintah dasar: init, add, commit.
