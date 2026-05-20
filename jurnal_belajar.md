@@ -8,3 +8,5 @@
 
   ## Minggu 3 - Branching
   Belajar membuat branch, merge, dan resolusi konflik.
+
+Saya sedang mengerjakan fitur di cabang terpisah.
