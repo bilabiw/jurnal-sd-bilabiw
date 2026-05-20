@@ -1,5 +1,5 @@
 # Jurnal Belajar Software Development
-baris ini diubah di MAIN
+baris ini diubah di cabang-konflik
   ## Minggu 1 - Pengenalan Git
   Belajar instalasi Git dan perintah dasar: init, add, commit.
 
